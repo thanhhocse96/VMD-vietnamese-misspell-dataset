@@ -22,7 +22,11 @@ Một số nguyên tắc thu thập dữ liệu tin tức trên mạng xã hội
 3. [Github Typo Corpus](https://github.com/mhagiwara/github-typo-corpus/issues): Dữ liệu tổng hợp các lỗi chính tả từ các commit trên Github của Masato Hagiwara and Masato Mita, cấu trúc tương tự như bộ Wiki, tuy nhiên tiếng Việt chỉ là một trong 15 ngôn ngữ (hình như chỉ có khoảng 40 cases là tiếng Việt), nhưng với kích thước của bộ dataset này phù hợp cho việc phát triển các ứng dụng đa ngôn ngữ
 
 ## Trích dẫn
-
+### APA
+```
+Thanh, H. (2024). VFND/VMDS-vietnamese-misspell-dataset-from-Social-media: VMDS version 0.0.1: 5100 cases (v0.0.1.005). Zenodo. https://doi.org/10.5281/zenodo.10938148
+```
+### BibTex
 ```
 @software{thanh_h_2024_10938148,
   author       = {Thanh, H},
